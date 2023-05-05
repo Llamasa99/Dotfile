@@ -11,3 +11,6 @@ Necessary</br>
   [Polybar](https://github.com/polybar/polybar)</br>
   [Polybar-Theme](https://github.com/adi1090x/polybar-themes)</br>
   [Cava](https://github.com/karlstav/cava)</br>
+
+Important</br>
+**Forest folder is located inside polybar-theme (/home/name/.config/polybar/forest/)**
